@@ -2,9 +2,9 @@ body{
   background-color:black;
   color:white;
 }
-/* h1{
+h1{
   color:blue;
-} */
+}
 .intro-body{
   background-image: url("images/intro-bg.png");
 }
